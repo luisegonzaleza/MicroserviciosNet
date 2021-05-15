@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "92h4eJMuau9PBoDv4bjgIlXVvtA+nSsi+F8KV0kA9sBGmjrsspPmd96uTlrDdkh+MrdGAnqWn1A17XN6sifbbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis\\Downloads\\catalogos-service(luisFuncional)\\Example.Catalogos.Dtos\\Example.Catalogos.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
